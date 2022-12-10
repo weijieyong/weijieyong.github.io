@@ -27,7 +27,7 @@ repository               : "weijieyong/weijieyong.github.io" # GitHub username/r
 teaser                   : # "assets/img/favicons/favicon.ico" # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo                     : # "assets/img/favicons/favicon.ico" # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
-# breadcrumbs            : false # true, false (default)
+breadcrumbs              : true # true, false (default)
 words_per_minute         : 200
 comments:
   provider               : # false (default), "disqus", "discourse", "facebook", "staticman", "staticman_v2", "utterances", "giscus", "custom"
@@ -58,12 +58,12 @@ reCaptcha:
   secret                 :
 atom_feed:
   path                   : # blank (default) uses feed.xml
-  hide                   : true, # false (default)
-search                   : # true, false (default)
-search_full_content      : # true, false (default)
+  hide                   : true # false (default)
+search                   : true # false (default)
+search_full_content      : # true # false (default)
 search_provider          : # lunr (default), algolia, google
 lunr:
-  search_within_pages    : # true, false (default)
+  search_within_pages    : # true # false (default)
 algolia:
   application_id         : # YOUR_APPLICATION_ID
   index_name             : # YOUR_INDEX_NAME
@@ -300,4 +300,3 @@ defaults:
     values:
       layout: single
       author_profile: true
-      
