@@ -1,36 +1,35 @@
 ---
 layout: splash
 permalink: /
-hidden: true
+hidden: false
 header:
   overlay_color: "#5e616c"
-  overlay_image: /assets/images/mm-home-page-feature.jpg
-  actions:
-    - label: "<i class='fas fa-download'></i> Install now"
-      url: "/docs/quick-start-guide/"
+  overlay_image: https://images.unsplash.com/photo-1620121478247-ec786b9be2fa?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1932&q=80
+  # actions:
+  #   - label: "<i class='fas fa-download'></i> Install now"
+  #     url: "/docs/quick-start-guide/"
 excerpt: >
-  A flexible two-column Jekyll theme. Perfect for building personal sites, blogs, and portfolios.<br />
-  <small><a href="https://github.com/mmistakes/minimal-mistakes/releases/tag/4.24.0">Latest release v4.24.0</a></small>
+  Hello There!
 feature_row:
   - image_path: https://via.placeholder.com/150
     alt: "customizable"
-    title: "Super customizable"
+    title: "Project 001"
     excerpt: "Everything from the menus, sidebars, comments, and more can be configured or set with YAML Front Matter."
-    url: "/docs/configuration/"
+    url: "/wip/"
     btn_class: "btn--primary"
     btn_label: "Learn more"
   - image_path: https://via.placeholder.com/150
     alt: "fully responsive"
-    title: "Responsive layouts"
+    title: "Project 002"
     excerpt: "Built with HTML5 + CSS3. All layouts are fully responsive with helpers to augment your content."
-    url: "/docs/layouts/"
+    url: "/wip/"
     btn_class: "btn--primary"
     btn_label: "Learn more"
   - image_path: https://via.placeholder.com/150
     alt: "100% free"
-    title: "100% free"
+    title: "Project 003"
     excerpt: "Free to use however you want under the MIT License. Clone it, fork it, customize it... whatever!"
-    url: "/docs/license/"
+    url: "/wip/"
     btn_class: "btn--primary"
     btn_label: "Learn more"      
 ---
