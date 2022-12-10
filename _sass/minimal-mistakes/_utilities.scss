@@ -150,6 +150,7 @@ body:hover .visually-hidden button {
   display: block;
   margin-left: auto;
   margin-right: auto;
+  border-radius: 9px;
 
   @include breakpoint($small) {
     float: left;
@@ -163,6 +164,7 @@ body:hover .visually-hidden button {
   display: block;
   margin-left: auto;
   margin-right: auto;
+  border-radius: 9px;
 
   @include breakpoint($small) {
     float: right;
@@ -176,6 +178,15 @@ body:hover .visually-hidden button {
   display: block;
   margin-left: auto;
   margin-right: auto;
+  border-radius: 9px;
+  filter: drop-shadow(.09rem .09rem 0.27rem grey)
+}
+
+.align-caption {
+  text-align: center;
+  font-style: italic;
+  font-size: smaller;
+  text-indent: 0;
 }
 
 /* file page content container */
