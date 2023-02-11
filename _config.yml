@@ -21,7 +21,7 @@ title_separator          : "-"
 # subtitle                 : "Fa La La La La" # site tagline that appears below site title in masthead
 name                     : "WJ"
 description              : "An amazing website."
-url                      : "https://weijieyong.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : "https://www.hiimweijie.com" # "https://weijieyong.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # "/about" # the subpath of your site, e.g. "/blog"
 repository               : "weijieyong/weijieyong.github.io" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # "assets/img/favicons/favicon.ico" # path of fallback teaser image, e.g. "/assets/images/500x300.png"
@@ -30,16 +30,16 @@ masthead_title           : # overrides the website title displayed in the masthe
 breadcrumbs              : true # true, false (default)
 words_per_minute         : 200
 comments:
-  provider               : # false (default), "disqus", "discourse", "facebook", "staticman", "staticman_v2", "utterances", "giscus", "custom"
+  provider               : "facebook" # false (default), "disqus", "discourse", "facebook", "staticman", "staticman_v2", "utterances", "giscus", "custom"
   disqus:
     shortname            : # https://help.disqus.com/customer/portal/articles/466208-what-s-a-shortname-
   discourse:
     server               : # https://meta.discourse.org/t/embedding-discourse-comments-via-javascript/31963 , e.g.: meta.discourse.org
   facebook:
     # https://developers.facebook.com/docs/plugins/comments
-    appid                :
-    num_posts            : # 5 (default)
-    colorscheme          : # "light" (default), "dark"
+    appid                : 740076894152159
+    num_posts            : 5 # 5 (default)
+    colorscheme          : "dark" # "light" (default), "dark"
   utterances:
     theme                : # "github-light" (default), "github-dark"
     issue_term           : # "pathname" (default)
@@ -106,8 +106,8 @@ analytics:
 author:
   name             : "WJ"
   avatar           : "assets/img/bio-photo.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Robotics engineer searching for his Ikigai"
-  # location         : ""
+  bio              : "A Robotics Engineer's Quest for his Ikigai"
+  location         : ""
   email            :
   links:
     - label: "Email"
