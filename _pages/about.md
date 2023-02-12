@@ -19,10 +19,10 @@ Overall, I strive to lead a balanced life, merging my passion for engineering an
 
 ## Work Experience
 - **Embedded Software Engineer + Project Manager** - *2021 ~ present*{: .small}
-  - Successfully designed, developed, and implemented firmware for a multi-DOF robot arm, resulting in improved functionality and performance.
+  - Successfully designed, developed, and implemented firmware for a multi-DOF robotic arm, resulting in improved functionality and performance.
   - Expertly troubleshot and resolved technical issues related to embedded software development, ensuring seamless operation and minimizing downtime.
   - Proactively oversaw engineering deliverables to guarantee successful project completion within time, cost, and specifications.
-  - Writing an Arduino Library for controlling multi-DOF robot arms, utilizing C++ programming language.
+  - Created a user-friendly C++ library that allows for efficient and customized firmware development for multi-DOF robotic arms.
   - Enhanced development capabilities by adding [ROS (Robot Operating System)](https://www.ros.org/) functionality, resulting in an easier and more efficient development process for users, at the same time contributing to the open-source community.
 
 
