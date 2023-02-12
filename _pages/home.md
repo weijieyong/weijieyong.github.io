@@ -4,7 +4,7 @@ permalink: /
 hidden: true
 header:
   # overlay_color: "#5e616c"
-  overlay_image: https://images.unsplash.com/photo-1548679847-1d4ff48016c7?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1471&q=80
+  overlay_image: ../assets/img/splash-page-banner.jpg
   # actions:
   #   - label: "<i class='fas fa-download'></i> Install now"
   #     url: "/docs/quick-start-guide/"
