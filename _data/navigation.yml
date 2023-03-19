@@ -3,9 +3,14 @@ main:
   - title: "About"
     url: /about/
   - title: Articles
-    url: /posts-grid/
-  - title: Categories
-    url: /categories/
-  # - title: Archive
-  #   url: /year-archive/
-  #   url: /archive/
+    url: /articles/
+  - title: Projects
+    url: /categories/#projects
+  - title: Archive
+    sublinks:
+      - title: By Tag
+        url: /tags/
+      - title: By Category
+        url: /categories/
+      - title: By Year
+        url: /year-archive/

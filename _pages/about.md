@@ -5,9 +5,9 @@ toc: false
 classes: wide
 ---
 
-Hi 👋
-
 ![levitating me](../assets/img/levitating.JPG){: .align-right style="width: 200px; height: 250px; object-fit: cover; object-position: 50% 0%;"}
+
+Hi 👋
 
 I'm WJ, a Robotics Engineer hailing from the charming town of Penang in Malaysia 🇲🇾. My passion for engineering and robotics is what led me to pursue this career and build innovative and practical solutions to real-world problems.
 

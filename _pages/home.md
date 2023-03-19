@@ -10,8 +10,8 @@ header:
   #     url: "/docs/quick-start-guide/"
 title: " 👋 Hi, I'm WJ"
 excerpt: >
-  I'm a robotics engineer and hobby tinkerer passionate about combining technology and creativity. 
-  Join me as I share my projects, insights, and some fun things on this personal website.
+  I'm a robotics engineer and hobby tinkerer passionate about combining technology and creativity.<br> 
+  Join me as I share my projects, insights, and some fun things here.
 feature_row:
   - image_path: assets/img/shibabo/shibabo.JPG
     alt: "customizable"
@@ -20,22 +20,39 @@ feature_row:
     url: "/wip/"
     btn_class: "btn--primary"
     btn_label: "Learn more"
-  - image_path: https://via.placeholder.com/150
-    alt: "fully responsive"
-    title: "Project 002"
-    excerpt: "Something's cooking..."
-    url: "/wip/"
-    btn_class: "btn--primary"
-    btn_label: "Learn more"
-  - image_path: https://via.placeholder.com/150
-    alt: "100% free"
-    title: "Project 003"
-    excerpt: "... whatever!"
-    url: "/wip/"
-    btn_class: "btn--primary"
-    btn_label: "Learn more"      
+  # - image_path: https://picsum.photos/200/150
+  #   alt: "fully responsive"
+  #   title: "Project 002"
+  #   excerpt: "Something's cooking..."
+  #   url: "/wip/"
+  #   btn_class: "btn--primary"
+  #   btn_label: "Learn more"
+  # - image_path: https://picsum.photos/200/150
+  #   alt: "100% free"
+  #   title: "Project 003"
+  #   excerpt: "Anytime now..."
+  #   url: "/wip/"
+  #   btn_class: "btn--primary"
+  #   btn_label: "Learn more"      
 ---
 
-Here are some of my projects.
+## Check out some of my projects
 
 {% include feature_row %}
+
+## Latest Articles
+
+{% if paginator %}
+  {% assign posts = paginator.posts %}
+{% else %}
+  {% assign posts = site.posts %}
+{% endif %}
+
+{% assign entries_layout = page.entries_layout | default: 'list' %}
+<div class="entries-{{ entries_layout }}">
+  {% for post in posts %}
+    {% include archive-single.html type=entries_layout %}
+  {% endfor %}
+</div>
+
+{% include paginator.html %}

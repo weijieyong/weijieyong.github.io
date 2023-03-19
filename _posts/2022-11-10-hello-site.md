@@ -6,12 +6,12 @@ tags:
   - blog
   - writing
   - jekyll
-toc: false
+toc: true
 toc_sticky: false
 header:
     teaser: https://images.unsplash.com/photo-1499750310107-5fef28a66643?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1000&q=80
+excerpt: "Hello from my new Home!"
 ---
-
 
 ## Why did I start this blog? 
 ### 1. Organize thoughts and learn at the same time
