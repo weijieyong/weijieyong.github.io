@@ -4,4 +4,8 @@ title: "Work In Progress"
 toc: false
 ---
 
-Stay Tune.
+```
+ /\_/\                   /)/)
+( o.o )   Stay Tune.   ( o.o )
+ > ^ <                 (")_(")
+```
