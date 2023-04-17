@@ -1,5 +1,5 @@
 ---
-permalink: /about/
+permalink: /
 title: "About Me"
 toc: false
 classes: wide
@@ -18,12 +18,13 @@ Overall, I strive to lead a balanced life, merging my passion for engineering an
 
 
 ## Work Experience
-- **Embedded Software Engineer + Project Manager** - *2021 ~ present*{: .small}
-  - Successfully designed, developed, and implemented firmware for a multi-DOF robotic arm, resulting in improved functionality and performance.
-  - Expertly troubleshot and resolved technical issues related to embedded software development, ensuring seamless operation and minimizing downtime.
-  - Proactively oversaw engineering deliverables to guarantee successful project completion within time, cost, and specifications.
-  - Created a user-friendly C++ library that allows for efficient and customized firmware development for multi-DOF robotic arms.
-  - Enhanced development capabilities by adding [ROS (Robot Operating System)](https://www.ros.org/) functionality, resulting in an easier and more efficient development process for users, at the same time contributing to the open-source community.
+- **Robotics Engineer + Project Manager** - *2021 ~ present*{: .small}
+  - Designed and implemented firmware for a multi-DOF robotic manipulator using C++ on an [ESP32](https://www.espressif.com/en/products/socs/esp32) microcontroller.
+  - Developed and implemented [ROS](https://www.ros.org/) 1 and ROS 2 packages for multiple robots, incorporating MoveIt motion planning and Gazebo simulation capabilities.
+  - Successfully managed and delivered multiple robotics projects, including robot manipulators and humanoid robots, from inception to delivery.
+  - Proficient in Linux, Git, and Docker, with extensive experience in their use in robotics engineering.
+  - Produced technical manuals and provided expert technical support to end-users.
+  - Designed and prototyped mechanical components and assemblies for robot systems using Fusion 360 and 3D printing.
 
 
 ## Education
@@ -31,17 +32,18 @@ Overall, I strive to lead a balanced life, merging my passion for engineering an
   - in Mechanical Engineering from [Osaka University](https://www.osaka-u.ac.jp/en)
   - Thesis: *"Development of CarryBots: Cooperative Multi-robot System for Unstable Object Transportation"*
   - [Final Thesis Presentation Slides](https://www.linkedin.com/in/wjyong/overlay/education/596924991/multiple-media-viewer/?profileId=ACoAACxIHpYB0RvbdJ90-dAhzPhKkT8_0YuBKxI&treasuryMediaId=1635453315979)
-  - [Swarm Robotic Systems may be the Art of Ecology](https://sueokalab.com/columns/2021autumn_presentation)
+  - My research project that was presented at the JSMB(Marine Biotechnology) Conference, titled: [Swarm Robotic Systems may be the Art of Ecology](https://sueokalab.com/columns/2021autumn_presentation)
 - **Associate’s** - *2016 ~ 2019*{: .small} 
   - in Control Engineering from [National Institute of Technology, Nara College](https://www.nara-k.ac.jp/guide/english/top/)
   - Thesis: *"Development of Skill Transfer System using Machine Learning"*
 
 
 ## Skills / Tools
-- **Programming Languages**: C/C++, Python, Processing, MATLAB
-- **Software**: Fusion 360, iCAD
-- **Developer Tools**: Git, VS Code, CLion
+- **Software**: C++, C, Python, ROS1/2, Linux(Ubuntu), Gazebo, MoveIt, Git, Docker, MATLAB
+- **Microcontrollers**: ESP32, Arduino, Raspberry Pi
+- **Soft skills**: Project management, Cross-functional collaboration, Adaptability, Problem solving, Technical support
 - **Microcontroller**: ESP32, Arduino, Raspberry Pi
+- **Mechanical & Electrical**: Fusion 360, CNC machining, 3D printing, soldering, oscilloscope
 - **Languages**:
   - Native: `Chinese`
   - Full Professional: `English`, `Japanese`, `Malay`
@@ -53,6 +55,12 @@ Overall, I strive to lead a balanced life, merging my passion for engineering an
 
 - Excellent Student Award
   - Awarded to the two most outstanding students in the whole program.
+
+- Monash Bridge Building Competition
+  - Got first place at both regional and national levels.
+
+- Malaysian Computing Competition
+  - Earned a Gold Award both in individual and team categories with a perfect score.
 
 - Asia-Pacific Mathematical Olympiad
   - I was among the 10 national representatives for Malaysia in the competition.
