@@ -1,5 +1,5 @@
 ---
-permalink: /
+permalink: /about
 title: "About Me"
 toc: false
 classes: wide
@@ -18,20 +18,21 @@ Overall, I strive to lead a balanced life, merging my passion for engineering an
 
 
 ## Work Experience
-- **Robotics Engineer + Project Manager** - *2021 ~ present*{: .small}
-  - Designed and implemented firmware for a multi-DOF robotic manipulator using C++ on an [ESP32](https://www.espressif.com/en/products/socs/esp32) microcontroller.
-  - Developed and implemented [ROS](https://www.ros.org/) 1 and ROS 2 packages for multiple robots, incorporating MoveIt motion planning and Gazebo simulation capabilities.
-  - Successfully managed and delivered multiple robotics projects, including robot manipulators and humanoid robots, from inception to delivery.
-  - Proficient in Linux, Git, and Docker, with extensive experience in their use in robotics engineering.
+- **Robotics Engineer + Project Manager** - *2021 ~ 2023*{: .small}
+  - Designed and implemented efficient code for motor control, sensors, and communication on [ESP32](https://www.espressif.com/en/products/socs/esp32) (I2C, SPI, UART), achieving 50% latency reduction through onboard processing.
+  - Built and maintained modular [ROS](https://www.ros.org/) 1 and ROS 2 packages, boosted developer adoption by 30% with ROS 2 integration, and tackled complex software issues, reducing downtime by 25%.
+  - Successfully navigated the challenges of developing and launching 2 robotics projects (humanoid robot, mobile manipulator), encompassing diverse technologies, and consistently exceeding client expectations.
+  - Proactive problem-solving led to the development of a software solution that streamlined testing procedures, resulting in improving overall production flow.
+  - Forged strong client partnerships through active listening and iterative prototyping, delivering tailored robotics solutions that ensured repeat business.
   - Produced technical manuals and provided expert technical support to end-users.
-  - Designed and prototyped mechanical components and assemblies for robot systems using Fusion 360 and 3D printing.
+  - Designed and prototyped mechanical components and assemblies for robot systems using 3D CAD software and 3D printing and CNC milling.
 
 
 ## Education
 - **Bachelor of Science** - *2019 ~ 2021*{: .small}
   - in Mechanical Engineering from [Osaka University](https://www.osaka-u.ac.jp/en)
   - Thesis: *"Development of CarryBots: Cooperative Multi-robot System for Unstable Object Transportation"*
-  - [Final Thesis Presentation Slides](https://www.linkedin.com/in/wjyong/overlay/education/596924991/multiple-media-viewer/?profileId=ACoAACxIHpYB0RvbdJ90-dAhzPhKkT8_0YuBKxI&treasuryMediaId=1635453315979)
+  - [Final Thesis Presentation Slides](https://www.linkedin.com/in/weijieyong/overlay/education/596924991/multiple-media-viewer/?profileId=ACoAACxIHpYB0RvbdJ90-dAhzPhKkT8_0YuBKxI&treasuryMediaId=1635453315979)
   - My research project that was presented at the JSMB(Marine Biotechnology) Conference, titled: [Swarm Robotic Systems may be the Art of Ecology](https://sueokalab.com/columns/2021autumn_presentation)
 - **Associate’s** - *2016 ~ 2019*{: .small} 
   - in Control Engineering from [National Institute of Technology, Nara College](https://www.nara-k.ac.jp/guide/english/top/)
@@ -49,18 +50,22 @@ Overall, I strive to lead a balanced life, merging my passion for engineering an
   - Full Professional: `English`, `Japanese`, `Malay`
 
 
-## Awards
-- Outstanding Performance Award
-  - Awarded to the most outstanding student in the Department of Control Engineering.
+## Awards & Recognition
+- Outstanding Performance Award, Department of Control Engineering (NIT Nara College)
+  - Awarded for exceptional academic performance within the program.
 
-- Excellent Student Award
-  - Awarded to the two most outstanding students in the whole program.
+- Excellent Student Award (INTEC College)
+  - Recognized as one of the program's most accomplished individuals.
 
-- Monash Bridge Building Competition
-  - Got first place at both regional and national levels.
+- Monash Bridge Building Competition: Champion (Regional & National)
+  - Led the team to first place victories in both competitions, showcasing innovative engineering and bridge design. See the impressive final test to failure video [here](https://www.youtube.com/watch?v=3aufIxup2Es).
 
 - Malaysian Computing Competition
   - Earned a Gold Award both in individual and team categories with a perfect score.
 
 - Asia-Pacific Mathematical Olympiad
   - I was among the 10 national representatives for Malaysia in the competition.
+
+## Publications
+- [**Effect of Robotic Pile-Up Mechanism on Cooperative Transportation for Versatile Objects**](https://www.fujipress.jp/jrm/rb/robot003500040938/) - *Journal of Robotics and Mechatronics, Aug 2023*{: .small}
+  - Reimagining swarm robotics, our novel system empowers multiple robots to strategically stack and transport challenging objects. Analyzing stability conditions and meticulously tested in real-world experiments, this transformative approach unlocks enhanced versatility and flexibility for cooperative manipulation across diverse domains.

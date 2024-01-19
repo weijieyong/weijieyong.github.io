@@ -1,16 +1,16 @@
 # main links
 main:
   - title: "About"
-    url: /
-  - title: Articles
-    url: /articles/
+    url: /about
+  # - title: Articles
+  #   url: /articles/
   - title: Projects
-    url: /categories/#projects
-  - title: Archive
-    sublinks:
-      - title: By Tag
-        url: /tags/
-      - title: By Category
-        url: /categories/
-      - title: By Year
-        url: /year-archive/
+    url: /projects/
+  # - title: Archive
+  #   sublinks:
+  #     - title: By Tag
+  #       url: /tags/
+  #     - title: By Category
+  #       url: /categories/
+  #     - title: By Year
+  #       url: /year-archive/
