@@ -20,7 +20,7 @@ feature_row:
     url: "/amir/"
     btn_class: "btn--primary"
     btn_label: "Learn more"
-  - image_path: assets/img/ros.png
+  - image_path: assets/img/ros-robot.png
     alt: "ros"
     title: "ROS implementation"
     excerpt: "Powering robots of all shapes and sizes with my versatile ROS toolkit."
