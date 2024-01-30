@@ -3,6 +3,16 @@ permalink: /about
 title: "About Me"
 toc: false
 classes: wide
+gallery:
+  - url: /assets/img/shikoku1000.jpg
+    image_path: ../assets/img/shikoku1000.jpg
+    alt: "Cycling around Shikoku 1000km "
+  - url: /assets/img/kamikochi-camping.JPG
+    image_path: ../assets/img/kamikochi-camping.JPG
+    alt: "Kamikochi camping"
+  - url: /assets/img/sup-headstand.png
+    image_path: ../assets/img/sup-headstand.png
+    alt: "SUP @ Biwako"
 ---
 
 ![levitating me](../assets/img/levitating.JPG){: .align-right style="width: 200px; height: 250px; object-fit: cover; object-position: 50% 0%;"}
@@ -14,11 +24,12 @@ I'm WJ, a Robotics Engineer hailing from the charming town of Penang in Malaysia
 Aside from my professional pursuits, I have a plethora of interests and hobbies that keep me grounded and entertained. I love to explore new places, document my experiences through photography and videography, and indulge in good food, often trying out new recipes and cuisines. 
 In my free time, I enjoy playing the piano as a form of stress relief and have a persistent thirst for knowledge, constantly seeking to expand my skills and understanding through new experiences.
 
-Overall, I strive to lead a balanced life, merging my passion for engineering and creativity, and continuously seeking new challenges and experiences. Through my blog, I hope to share my insights and adventures with you, and hopefully, inspire you to live life to the fullest.
+Overall, I strive to lead a balanced life, merging my passion for engineering and creativity, and continuously seeking new challenges and experiences. Through my website, I hope to share my insights and adventures with you, and hopefully, inspire you to live life to the fullest.
 
+{% include gallery caption="Some of my adventures around Japan" %}
 
 ## Work Experience
-- **Robotics Engineer + Project Manager** - *2021 ~ 2023*{: .small}
+- **Robotics Engineer + Project Manager** @ [Vstone Co.,Ltd.](https://www.vstone.co.jp/english/index.html) - *2021 ~ 2023*{: .small}
   - Designed and implemented efficient code for motor control, sensors, and communication on [ESP32](https://www.espressif.com/en/products/socs/esp32) (I2C, SPI, UART), achieving 50% latency reduction through onboard processing.
   - Built and maintained modular [ROS](https://www.ros.org/) 1 and ROS 2 packages, boosted developer adoption by 30% with ROS 2 integration, and tackled complex software issues, reducing downtime by 25%.
   - Successfully navigated the challenges of developing and launching 2 robotics projects (humanoid robot, mobile manipulator), encompassing diverse technologies, and consistently exceeding client expectations.

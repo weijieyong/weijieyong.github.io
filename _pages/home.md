@@ -27,11 +27,11 @@ feature_row:
     url: "/ros/"
     btn_class: "btn--primary"
     btn_label: "Learn more"
-  - image_path: assets/img/shibabo/shibabo.JPG
+  - image_path: assets/img/carrybots/carrybot-rendering.png
     alt: "customizable"
-    title: "SHIBABO"
-    excerpt: "A one-of-a-kind keyboard, crafted with love for my beloved."
-    url: "/projects/shibabo/"
+    title: "CarryBots"
+    excerpt: "Modeling and Experimenting with Robotic Stacking for Enhanced Transport Capabilities"
+    url: "/carrybots/"
     btn_class: "btn--primary"
     btn_label: "Learn more"
 ---
